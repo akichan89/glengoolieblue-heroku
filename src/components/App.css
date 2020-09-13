@@ -1,0 +1,55 @@
+
+
+.App {
+  text-align: center;
+  
+}
+
+.App-logo {
+  height: 100px;
+  pointer-events: none;
+  padding: 10px;
+}
+
+.header {
+  
+  padding-bottom: 10px;
+  
+  
+  margin-bottom: 20px;;
+}
+
+.App-header {
+  font-size: 1.5rem;
+  font-family: 'Tangerine', cursive;
+  background-color: #fbfbfb;
+  height: 80px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: goldenrod;
+  padding-bottom: 30px;
+  padding-top: 38px;
+  box-shadow: 0px 0px 47px -13px rgba(0,0,0,0.35);
+  
+  border-bottom: 2px solid;
+  border-bottom-color: blue;
+  
+}
+
+.App-link {
+  color: blue;
+}
+
+.glengoolie {
+  color: goldenrod;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  
+  
+  
+
+}
